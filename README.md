@@ -10,7 +10,7 @@ This repository contains code that employs the breadth-first search algorithm to
 2. Run `proj1_ronen_aniti.py`. Modify the start and goal configuration (bottom of file) to test different cases. 
 3. Animate the results by running `Animate.py`, a Python file I include in this repository, which was provided to us in class. 
 
-## What Libraris I Used in this Code
+## What Libraries I Used in this Code
 ### For My Solution, proj1_ronen_aniti.py:
 For my solution, proj1_ronen_aniti.py, I use the `queue` module, which belongs to the Python standard library. I don't use any other libraries. 
 ### For `Animate.py`, provided by the instructor:
